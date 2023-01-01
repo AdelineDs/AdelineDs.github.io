@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdelineDs/AdelineDs.github.io/static/css/main.f38443f5.css",
+    "main.js": "/AdelineDs/AdelineDs.github.io/static/js/main.3e4d4c6d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AdelineDs/AdelineDs.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AdelineDs/AdelineDs.github.io/index.html",
+    "main.f38443f5.css.map": "/AdelineDs/AdelineDs.github.io/static/css/main.f38443f5.css.map",
+    "main.3e4d4c6d.js.map": "/AdelineDs/AdelineDs.github.io/static/js/main.3e4d4c6d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AdelineDs/AdelineDs.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38443f5.css",
+    "static/js/main.3e4d4c6d.js"
+  ]
+}
